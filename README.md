@@ -117,6 +117,9 @@ CREATE TABLE borrow (
 - `books ↔ borrow` → One-to-many (a book can be borrowed multiple times)  
 - `librarians ↔ borrow` → One-to-many (a librarian processes multiple borrow records)  
 
+![Entity-Relationship Diagram (ERD)](images/Entity-Relationship Diagram (ERD).png)
+
+
 ---
 
 ## ✅ Normalization Summary
