@@ -18,6 +18,9 @@ USE library;
 ## 📂 Tables
 
 ### 1. Authors Table
+
+![Alt Text](images/authors.png)
+
 ```sql
 CREATE TABLE authors (
     authorid INT PRIMARY KEY,
